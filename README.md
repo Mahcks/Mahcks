@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm **Mahcks**(Max) 👋
 
-<!--
-**Mahcks/Mahcks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwind,go,gql,docker,mysql,mongodb,redis" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats-9u3mrfn8z-mahcks.vercel.app/api?username=mahcks&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats-9u3mrfn8z-mahcks.vercel.app/api/top-langs/?username=mahcks&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=mahcks&color=grey)
