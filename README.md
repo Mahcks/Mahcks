@@ -11,4 +11,4 @@
   
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats-9u3mrfn8z-mahcks.vercel.app/api?username=mahcks&show_icons=true&theme=dark)
+![](https://github-readme-stats-9u3mrfn8z-mahcks.vercel.app/api?username=mahcks&show_icons=true&theme=dark)
