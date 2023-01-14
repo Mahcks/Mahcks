@@ -1,5 +1,4 @@
 ### Hi there, I'm **Max** 👋
-Working on whatever peaks my interest.
 
 #### Languages and Tools
   <a href="https://skillicons.dev">
