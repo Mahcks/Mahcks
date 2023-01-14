@@ -1,4 +1,4 @@
-### Hi there, I'm **Mahcks**(Max) 👋
+### Hi there, I'm **Max** 👋
 
 <p align="center">
   <a href="https://skillicons.dev">
