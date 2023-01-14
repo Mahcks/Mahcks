@@ -1,10 +1,12 @@
 ### Hi there, I'm **Max** 👋
+Working on whatever peaks my interest.
 
-<p align="center">
+#### Languages and Tools
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwind,go,gql,docker,mysql,mongodb,redis" />
   </a>
-</p>
+  
+<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats-9u3mrfn8z-mahcks.vercel.app/api?username=mahcks&show_icons=true&theme=dark)
 
