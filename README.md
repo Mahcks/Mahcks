@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=mahcks&color=grey)
 
 #### Languages and Tools
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwind,go,gql,docker,mysql,mongodb,redis" />
   </a>
   
