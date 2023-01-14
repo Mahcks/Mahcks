@@ -12,7 +12,3 @@
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats-9u3mrfn8z-mahcks.vercel.app/api?username=mahcks&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats-9u3mrfn8z-mahcks.vercel.app/api/top-langs/?username=mahcks&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
