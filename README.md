@@ -2,7 +2,7 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-000000?logo=twitter)](https://twitter.com/mahcks)
 [![Website](https://img.shields.io/badge/Website-000000?logo=googlechrome)](https://mahcks.com)
-[![email](https://img.shields.io/badge/Website-000000?logo=mailgun)](mailto:max@mahcks.com)
+[![email](https://img.shields.io/badge/Email%20Me-000000?logo=mailgun)](mailto:max@mahcks.com)
 
 ![](https://komarev.com/ghpvc/?username=mahcks&color=grey)
 
