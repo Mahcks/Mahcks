@@ -7,7 +7,7 @@
 
 #### Languages and Tools
   <a>
-    <img src="https://skillicons.dev/icons?i=go,javascript,typescript,react,nextjs,tailwind,gql,docker,mysql,mongodb,redis" />
+    <img src="https://skillicons.dev/icons?i=go,javascript,typescript,react,nextjs,tailwind,gql,docker,mysql,postgresql,mongodb,redis" />
   </a>
   
 <br/>
